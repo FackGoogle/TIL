@@ -89,3 +89,23 @@ $ git commit - m "first commit"
 git log --oneline #커밋 목록 한줄로 보기
 ```
 
+---
+
+### 추가 커밋 쌓기 
+
+- a.txt 내용 수정 
+
+```ba
+```
+
+
+
+
+
+# 실습_01  
+
+### git 저장소 만들도 루트 커밋 남기기 
+
+- practice1 이라는 폴더를 바탕화면에 만들고 
+- README.md 라는 파일을 만든이후 
+- c첫번째 커밋을 남겨보자 
